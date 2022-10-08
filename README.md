@@ -1,2 +1,2 @@
-# kubemenu
-kubemenu is a simple tool for connecting to Kubernetes hosts via ssh written on GO.
+# KubeMenu
+kubemenu is a simple tool for connecting to Kubernetes cluster written on GO.
